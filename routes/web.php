@@ -23,6 +23,8 @@ Route::get('/start-project', function () {
 Route::get('/about-us', function () {
     return view('about');
 });
+
 // Route::get('/dp', function () {
 //     return view('about');
 // });
+
