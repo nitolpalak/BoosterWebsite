@@ -27,3 +27,4 @@ Route::get('/about-us', function () {
 Route::get('/dp', function () {
     return view('about');
 });
+
