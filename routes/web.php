@@ -24,7 +24,8 @@ Route::get('/about-us', function () {
     return view('about');
 });
 
-Route::get('/dp', function () {
-    return view('about');
-});
+// Route::get('/dp', function () {
+//     return view('about');
+// });
 
+//new comment
